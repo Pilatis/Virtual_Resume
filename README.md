@@ -1,6 +1,12 @@
 # React + Vite
 
 <h1 aling="center">Currículo Virtual</h1>
+<h1>LINK DO CURRICULO</h1>
+https://virtual-resume-six.vercel.app/
+  <br>
+  <br>
+  <br>
+  
 <h3> A tela do currículo</h3>
 
 ![pt1](https://github.com/Pilatis/Virtual_Resume/assets/139661291/cbf3ab1e-0e05-4914-b80b-32da5b300e4b)
